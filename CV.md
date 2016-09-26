@@ -3,7 +3,7 @@
 ## Personal Details
 * Born: 4 January 1991
 * Place of birth: Berlin, Germany
-* Address: Statenlaan 155, 5040 RS Tilburg, NL
+* Address: Statenlaan 155, 5042 RS Tilburg, NL
 * Email: florian.schmidt8@gmail.com
 * Web: www.florianschmidt.de
 
