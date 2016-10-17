@@ -37,4 +37,4 @@ Experienced and accomplished journalist, reporter and editor currently working t
 ##Skills and Languages
 * MS Office
 * Content management systems such as InterRed, Escenic, Newsgate
-* English (fluent), French (basics), Latin (basics)
+* German (mother tongue), English (fluent), French (basics), Latin (basics)
